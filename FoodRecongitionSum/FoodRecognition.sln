@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRecognition.API", "FoodRecognition.API\FoodRecognition.API.csproj", "{CCB0B987-9F44-463E-9EC1-F310E42D9C6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRecognition.Core", "FoodRecognition.Core\FoodRecognition.Core.csproj", "{C21B3034-B3E5-4B90-BB9A-B6F816104F98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FoodRecognition.Database", "FoodRecognition.Database\FoodRecognition.Database.csproj", "{832B109C-DECD-4E47-8107-CA9B2424528A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCB0B987-9F44-463E-9EC1-F310E42D9C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB0B987-9F44-463E-9EC1-F310E42D9C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB0B987-9F44-463E-9EC1-F310E42D9C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB0B987-9F44-463E-9EC1-F310E42D9C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21B3034-B3E5-4B90-BB9A-B6F816104F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21B3034-B3E5-4B90-BB9A-B6F816104F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21B3034-B3E5-4B90-BB9A-B6F816104F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21B3034-B3E5-4B90-BB9A-B6F816104F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{832B109C-DECD-4E47-8107-CA9B2424528A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{832B109C-DECD-4E47-8107-CA9B2424528A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{832B109C-DECD-4E47-8107-CA9B2424528A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{832B109C-DECD-4E47-8107-CA9B2424528A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
